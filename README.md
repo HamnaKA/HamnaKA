@@ -1,5 +1,4 @@
-<a href="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">via GIPHY</a></p>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 # 💫 About Me:
 🔭 I’m currently Pursuing MCA<br>👯 I’m looking to collaborate on android projects<br>
 
